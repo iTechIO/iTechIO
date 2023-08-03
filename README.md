@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Seth @iTechIO
 - 👀 I’m interested in all aspects of Information Technology/Systems
-- 🌱 I’m currently learning a wide range of thinga, but focusing on Cybersecurity, Python, AWS, Data Analytics and Cloud Infrastructure.
+- 🌱 I’m currently learning a wide range of thinga, but focusing on Cybersecurity, Python, AWS Services, Data Analytics and Cloud Infrastructure.
 - 💞️ I’m looking to collaborate on any of the mentioned topics, to learn more, get different perspectives, and contribute to projects!
 - 📫 How to reach me tech.cnsk@gmail.com or via LinkedIn - https://www.linkedin.com/in/seth-h340/
 
